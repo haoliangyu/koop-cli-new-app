@@ -9,6 +9,6 @@ This is a fork of [koop-sample-app](https://github.com/koopjs/koop-sample-app) w
 
   This template drops unnecessary files and dependencies from the original app example.
 
-* Configurable
+* No configuration
 
-  This template uses environment variables for configuration. This provides better isolation between environments and avoids storing configurate in the codebase.
+  This template requires no configuration and it is up to the developer to choose how to configurate it.
